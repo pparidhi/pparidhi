@@ -6,7 +6,7 @@
 ## 👨‍💻 Professional Background
 - 5+ years in computer science, Data Science.
 - Master's in Engineering (Computer Science) and Master's in Data Science.
-  👯 I’m looking to collaborate on projects related to Machine Learning, Deep Learning & Image Processing, Data Strucutres and Algorithms.
+- 👯 I’m looking to collaborate on projects related to Machine Learning, Deep Learning & Image Processing, Data Strucutres and Algorithms.
 ## 💼 Expertise
 - **Full Stack Developer:** .JS, .net, Core JAVA, CSS,SQL,ORACLE.
 - **Machine Learning Engineer:** End-to-end ML solutions.
