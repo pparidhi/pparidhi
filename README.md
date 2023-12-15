@@ -12,15 +12,15 @@
 - **Machine Learning Engineer:** End-to-end ML solutions.
 - **Data Analyst:** Translating data into actionable insights.
 ## 🚀 Skills
-# Languages and Frameworks:
+Languages and Frameworks:
 Java, Springboot, Python (pandas, NumPy, seaborn, SciPy, matplotlib, sci-kit-learn, NLTK), R, MATLAB, HTML, Go, CSS, C, C++, JavaScript, JPA, Android, Angular, ReactJS, C#, UML, Cisco Packet Tracer, LINUX, Maven, Spring, Hibernate.
-# Development environment:
+Development environment:
 Jupyter, OOP, Colab,Visual Studio, Eclipse, IntelliJ IDEA, Anaconda, PyCharm, JIRA, Putty, Flask, AWS, Git, Visual Studio
-# Visualization Tools:
+Visualization Tools:
 R Studio, Tableau, IBM Cognos Analytics, Power BI, Google charts, Plotly, Datawrapper.
-# Databases:
+Databases:
 SQL (Oracle Database, SQLite, MySQL, Firebase), PostgreSQL, NoSQL (MongoDB, Cassandra), Hadoop Map Reduce.
-# Data warehouses:
+Data warehouses:
 ClickHouse, Redshift, Salesforce, Databricks, Snowflake, Hudi, Iceberg, Delta Lake, Greenplum.
 ## 🌆 Personal Interests
 In my free time:
