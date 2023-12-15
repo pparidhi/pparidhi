@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 
-# Paridhi's GitHub Readme
-
 👋 Hi, I'm Paridhi Nigam!
 
 ## 👨‍💻 Professional Background
 
 - 5+ years in computer science, Data Science.
 - Master's in Engineering (Computer Science) and Master's in Data Science.
-
+  👯 I’m looking to collaborate on projects related to Machine Learning, Deep Learning & Image Processing, Data Strucutres and Algorithms.
 ## 💼 Expertise
 
 - **Full Stack Developer:** .JS, .net, Core JAVA, CSS,SQL,ORACLE.
@@ -32,7 +30,6 @@ ClickHouse, Redshift, Salesforce, Databricks, Snowflake, Hudi, Iceberg, Delta La
 ## 🌆 Personal Interests
 
 In my free time:
-
 - 🗽 I love exploring New York City, discovering new places.
 - 🤝 Spending time with people, learning something new from each encounter.
 
@@ -40,6 +37,7 @@ In my free time:
 [
 ](https://www.linkedin.com/in/paridhip/)
 Let's connect and build amazing things together! 🚀
-<!--
+
+# My favorite quote from 'Colin Powel' : "Success is the result of perfection, hard work, learning from failure, loyalty and persistence."
 
 -->
