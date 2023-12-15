@@ -27,7 +27,8 @@ In my free time:
 - 🗽 I love exploring New York City, discovering new places.
 - 🤝 Spending time with people, learning something new from each encounter.
 ## 📫 Let's Connect
-Let's connect and build amazing things together! 🚀https://www.linkedin.com/in/paridhip/
-Reach me at: nigamparidhi2630@gmail.com## My favorite quote from 'Colin Powel' : 
+Let's connect and build amazing things together!🚀 https://www.linkedin.com/in/paridhip/
+Reach me at: nigamparidhi2630@gmail.com
+## My favorite quote from 'Colin Powel' : 
 "Success is the result of perfection, hard work, learning from failure, loyalty and persistence."
 
